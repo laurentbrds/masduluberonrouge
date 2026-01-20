@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.leluberonrouge.com/sitemap.xml
+Sitemap: https://laurentbrds.github.io/masduluberonrouge/sitemap.xml
+
