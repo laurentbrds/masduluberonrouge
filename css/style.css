@@ -61,14 +61,18 @@ h1, h2, h3, h4 {
 
 .hero {
     height: 85vh;
-    background: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-                url('../images/villa-exterior.jpg') center/cover no-repeat;
+    background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
+                      url('/images/villa-exterior.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: white;
 }
+
 
 .hero-title {
     font-size: 48px;
@@ -171,3 +175,4 @@ input, textarea, select {
 .footer a {
     color: #B46A4D;
 }
+
