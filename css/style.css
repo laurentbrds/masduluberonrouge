@@ -62,7 +62,7 @@ h1, h2, h3, h4 {
 .hero {
     height: 85vh;
     background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)),
-                      url('/images/villa-exterior.JPG');
+                      url('/images/hero-bg.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -175,5 +175,6 @@ input, textarea, select {
 .footer a {
     color: #B46A4D;
 }
+
 
 
