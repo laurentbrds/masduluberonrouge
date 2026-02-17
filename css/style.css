@@ -1,6 +1,12 @@
 /* ===============================
    STYLE LUXE PROVENCE
 ================================ */
+.section-divider {
+    width: 60px;
+    height: 3px;
+    background-color: #C46A4A;
+    margin: 20px auto 40px;
+}
 
 /* Base */
 body {
@@ -178,3 +184,4 @@ input:focus, textarea:focus {
     font-size: 14px;
     opacity: 0.8;
 }
+
