@@ -64,7 +64,7 @@ h1, h2, h3, h4 {
     height: 90vh;
 
     background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-                      url('../images/villa-exterior.jpg');
+                      url('../images/gallery/exterior-5.jpg');
 
     background-size: cover;
     background-position: center;
@@ -181,6 +181,7 @@ input, textarea, select {
 .footer a {
     color: #B46A4D;
 }
+
 
 
 
