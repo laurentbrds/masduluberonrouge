@@ -1,18 +1,39 @@
-1:"$Sreact.fragment"
-3:I[39756,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
-4:I[37457,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"default"]
-5:I[47257,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"ClientPageRoot"]
-6:I[31713,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js","/masduluberonrouge/_next/static/chunks/15043vgpji_0k.js"],"default"]
-9:I[97367,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
-a:"$Sreact.suspense"
-c:I[97367,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
-e:I[97367,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
-10:I[68027,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"default",1]
-:HL["/masduluberonrouge/_next/static/chunks/1486ovu21033n.css","style"]
-2:T5e0,{"@context":"https://schema.org","@type":"VacationRental","identifier":"mas-du-luberon-rouge-cheval-blanc","name":"Le Mas du Luberon Rouge","description":"Villa provençale classée 4 étoiles de 220 m² avec piscine privée, 6 chambres et jusqu’à 12 personnes à Cheval-Blanc.","url":"https://laurentbrds.github.io/masduluberonrouge/","image":["https://laurentbrds.github.io/masduluberonrouge/images/villa-exterior.jpg","https://laurentbrds.github.io/masduluberonrouge/images/new/terrasse-piscine.jpg","https://laurentbrds.github.io/masduluberonrouge/images/new/olivier-piscine.jpg","https://laurentbrds.github.io/masduluberonrouge/images/new/sejour.jpg"],"address":{"@type":"PostalAddress","streetAddress":"271H chemin de Saint-Ferréol","addressLocality":"Cheval-Blanc","addressRegion":"Provence-Alpes-Côte d’Azur","postalCode":"84460","addressCountry":"FR"},"containsPlace":{"@type":"Accommodation","numberOfBedrooms":6,"numberOfBathroomsTotal":3,"occupancy":{"@type":"QuantitativeValue","value":12},"amenityFeature":[{"@type":"LocationFeatureSpecification","name":"Piscine privée","value":true},{"@type":"LocationFeatureSpecification","name":"Climatisation","value":true},{"@type":"LocationFeatureSpecification","name":"Wi-Fi","value":true},{"@type":"LocationFeatureSpecification","name":"Jardin clos","value":true},{"@type":"LocationFeatureSpecification","name":"Parking privé","value":true}]},"aggregateRating":{"@type":"AggregateRating","ratingValue":10,"bestRating":10,"ratingCount":15}}0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/masduluberonrouge/_next/static/chunks/1486ovu21033n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"fr","children":["$","body",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L5",null,{"Component":"$6","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@7","$@8"]}}],[["$","script","script-0",{"src":"/masduluberonrouge/_next/static/chunks/15043vgpji_0k.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lc",null,{"children":"$Ld"}],["$","div",null,{"hidden":true,"children":["$","$Le",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$Lf"}]}]}],null]}],false]],"m":"$undefined","G":["$10",[["$","link","0",{"rel":"stylesheet","href":"/masduluberonrouge/_next/static/chunks/1486ovu21033n.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"JZFlExuLfQxxWqG0qWhaX"}
-7:{}
-8:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
-d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-11:I[27201,["/masduluberonrouge/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
-b:null
-f:[["$","title","0",{"children":"Villa 12 personnes dans le Luberon | Le Mas du Luberon Rouge"}],["$","meta","1",{"name":"description","content":"Location d’une villa provençale classée 4 étoiles à Cheval-Blanc : 220 m², piscine privée, 6 chambres et 12 personnes au pied du Luberon."}],["$","meta","2",{"name":"keywords","content":"location villa Luberon,villa 12 personnes Luberon,villa 6 chambres Luberon,villa piscine Cheval-Blanc,location vacances Provence 12 personnes,Mas du Luberon Rouge"}],["$","link","3",{"rel":"canonical","href":"https://laurentbrds.github.io/masduluberonrouge/"}],["$","meta","4",{"property":"og:title","content":"Villa 12 personnes dans le Luberon | Le Mas du Luberon Rouge"}],["$","meta","5",{"property":"og:description","content":"Villa provençale classée 4 étoiles avec piscine privée, 6 chambres et jardin clos à Cheval-Blanc."}],["$","meta","6",{"property":"og:url","content":"https://laurentbrds.github.io/masduluberonrouge/"}],["$","meta","7",{"property":"og:site_name","content":"Le Mas du Luberon Rouge"}],["$","meta","8",{"property":"og:locale","content":"fr_FR"}],["$","meta","9",{"property":"og:image","content":"https://laurentbrds.github.io/masduluberonrouge/images/villa-exterior.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1600"}],["$","meta","11",{"property":"og:image:height","content":"1200"}],["$","meta","12",{"property":"og:image:alt","content":"Façade et piscine du Mas du Luberon Rouge à Cheval-Blanc"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Villa 12 personnes dans le Luberon"}],["$","meta","16",{"name":"twitter:description","content":"6 chambres, piscine privée et jardin clos au pied du Petit Luberon."}],["$","meta","17",{"name":"twitter:image","content":"https://laurentbrds.github.io/masduluberonrouge/images/villa-exterior.jpg"}],["$","link","18",{"rel":"shortcut icon","href":"https://laurentbrds.github.io/masduluberonrouge/favicon.svg"}],["$","link","19",{"rel":"icon","href":"https://laurentbrds.github.io/masduluberonrouge/favicon.svg"}],["$","$L11","20",{}]]
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://laurentbrds.github.io/masduluberonrouge/</loc>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/villa-exterior.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/terrasse-piscine.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/terrasse-longue-table.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/sejour.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/olivier-piscine.jpg</image:loc>
+</image:image>
+<lastmod>2026-07-27</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://laurentbrds.github.io/masduluberonrouge/villa-12-personnes-luberon.html</loc>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/terrasse-piscine.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/sejour.jpg</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://laurentbrds.github.io/masduluberonrouge/images/new/olivier-piscine.jpg</image:loc>
+</image:image>
+<lastmod>2026-07-27</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
