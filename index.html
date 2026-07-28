@@ -13,7 +13,6 @@
     grid-row: span 2;
   }
 
-  .gallery-item-12,
   .gallery-item-14,
   .gallery-item-16,
   .gallery-item-19,
@@ -27,7 +26,6 @@
       grid-row: span 2;
     }
 
-    .gallery-item-12,
     .gallery-item-14,
     .gallery-item-16,
     .gallery-item-19,
@@ -207,10 +205,6 @@
 <button class="gallery-item gallery-item-11" aria-label="Agrandir : Le cœur de la maison">
 <img src="/masduluberonrouge/images/new/sejour.jpg" alt="Grand séjour lumineux avec salon, escalier et piano" loading="lazy"/>
 <span>Le cœur de la maison</span>
-</button>
-<button class="gallery-item gallery-item-12" aria-label="Agrandir : Sous l’olivier, l’été">
-<img src="/masduluberonrouge/images/new/piscine-sous-olivier-2.jpg" alt="Piscine et vaste jardin observés à l’ombre d’un olivier ancien" loading="lazy"/>
-<span>Sous l’olivier, l’été</span>
 </button>
 <button class="gallery-item gallery-item-13" aria-label="Agrandir : Dedans–dehors">
 <img src="/masduluberonrouge/images/new/salon-terrasse.jpg" alt="Salon de terrasse ombragé ouvert sur la piscine" loading="lazy"/>
@@ -509,12 +503,12 @@
     lightbox.className = "lightbox";
     lightbox.setAttribute("role", "dialog");
     lightbox.setAttribute("aria-modal", "true");
-    lightbox.innerHTML = '<button class="lightbox-close" aria-label="Fermer">×</button>
+    lightbox.innerHTML = `<button class="lightbox-close" aria-label="Fermer">×</button>
 <button class="lightbox-prev" aria-label="Photo précédente">‹</button>
 <img alt="">
 <p>
 </p>
-<button class="lightbox-next" aria-label="Photo suivante">›</button>';
+<button class="lightbox-next" aria-label="Photo suivante">›</button>`;
     document.body.appendChild(lightbox);
     document.body.style.overflow = "hidden";
     showImage(index);
