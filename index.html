@@ -34,6 +34,72 @@
     }
   }
 </style>
+<style>
+  .reviews-grid {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1px;
+    margin-top: 6px;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    background: rgba(255, 255, 255, 0.35);
+  }
+
+  .review-card {
+    min-height: 235px;
+    padding: 30px;
+    background: var(--terracotta);
+    display: flex;
+    flex-direction: column;
+  }
+
+  .review-card:last-child {
+    grid-column: span 3;
+    min-height: auto;
+  }
+
+  .review-card .stars {
+    font-size: 11px;
+  }
+
+  .review-card p {
+    margin: 28px 0 0;
+    font: 500 23px/1.35 var(--serif);
+  }
+
+  .review-card cite {
+    margin-top: auto;
+    padding-top: 26px;
+    color: rgba(255, 255, 255, 0.75);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 1100px) {
+    .reviews-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .review-card:last-child {
+      grid-column: span 2;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .reviews-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .review-card,
+    .review-card:last-child {
+      grid-column: 1;
+      min-height: auto;
+    }
+
+    .review-card p {
+      font-size: 21px;
+    }
+  }
+</style>
 <title>Villa 12 personnes dans le Luberon | Le Mas du Luberon Rouge</title>
 <meta name="description" content="Location d’une villa provençale classée 4 étoiles à Cheval-Blanc : 220 m², piscine privée, 6 chambres et 12 personnes au pied du Luberon."/>
 <meta name="keywords" content="location villa Luberon,villa 12 personnes Luberon,villa 6 chambres Luberon,villa piscine Cheval-Blanc,location vacances Provence 12 personnes,Mas du Luberon Rouge"/>
@@ -353,6 +419,43 @@
 <div class="review-small">
 <blockquote>Excellent séjour entre amis ! Tout était parfait, fonctionnel, agréable notamment pour les enfants.</blockquote>
 <cite>Joanna L. · juillet 2026 · avis PAP Vacances</cite>
+</div>
+<div class="reviews-grid" aria-label="Sept autres avis de voyageurs">
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>Une maison idéale pour onze personnes : literie confortable, décoration soignée, climatisation, cuisine très équipée et jardin très apprécié des enfants.</p>
+<cite>Corinne B. · juillet 2024 · synthèse d’un avis vérifié Abritel</cite>
+</article>
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>Un séjour jugé parfait, qui a même dépassé les attentes du groupe.</p>
+<cite>Alexandra D. · août 2019 · synthèse d’un avis vérifié Abritel</cite>
+</article>
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>La maison, le four à pizza et la piscine adaptée à tous les âges ont marqué leurs vacances.</p>
+<cite>Daniel S. · juillet 2019 · synthèse d’un avis vérifié Abritel</cite>
+</article>
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>Une villa très équipée dans un environnement magnifique, avec cuisine extérieure, piscine, ping-pong et accueil particulièrement chaleureux.</p>
+<cite>Louis-Philippe G. · août 2017 · synthèse d’un avis archivé Abritel</cite>
+</article>
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>Après un premier coup de cœur, le groupe est revenu l’été suivant et a particulièrement apprécié la nouvelle cuisine d’été.</p>
+<cite>AnneSophie G. · été 2016 · synthèse d’un avis archivé Abritel</cite>
+</article>
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>Maison spacieuse et décorée avec goût, jardin et piscine magnifiques, emplacement idéal pour découvrir le Luberon.</p>
+<cite>Véronique L. · août 2016 · synthèse d’un avis archivé Abritel</cite>
+</article>
+<article class="review-card">
+<span class="stars" aria-label="Note de dix sur dix">★★★★★ · 10/10</span>
+<p>Maison fidèle à l’annonce, spacieuse, très bien équipée et située dans un environnement calme, avec un accueil réactif.</p>
+<cite>Camille S. · août 2014 · synthèse d’un avis archivé Abritel</cite>
+</article>
 </div>
 </section>
 <section class="location-section" id="luberon">
